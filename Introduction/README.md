@@ -15,7 +15,7 @@
 
 👋  Hi everyone and welcome to this wonderful course, what we can tell you is this: this course is for you and so be very attentive and focused because we are going to have fun here.
 
- ```bash
+```bash
 	 Introduction - What Is Golang?
 ```
 
@@ -28,4 +28,31 @@
 
 
 -	 [Introduction - Installation Golang](https://go.dev/)  
+
+
+
+2. [Section 2: Methods]() 👇
+
+
+```bash
+	 Section2 : Methods of writing go Code :
+```
+
+
+
+
+```bash
+	package main
+
+	import "fmt"
+
+	func main() {
+		fmt.Println("Hello, world")
+	}
+```
+
+-> run code like this >> go run test.go
+
+
+
 
